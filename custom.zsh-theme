@@ -1,4 +1,4 @@
-ocal ret_status="%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜ )"
+local ret_status="%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜ )"
   
 CRUNCH_BRACKET_COLOR="%{$fg[white]%}"
 CRUNCH_RVM_COLOR="%{$fg[magenta]%}"
